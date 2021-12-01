@@ -69,7 +69,7 @@ input[type="color"]:focus,
       }
     }
     .btn-more {
-      color: var(--secondary);
+      color: var(--primary);
       background: var(--tertiary);
       transition: all 0.3s linear;
       @include border-radius;
