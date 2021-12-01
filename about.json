@@ -4,10 +4,10 @@
   "license_url": null,
   "color_schemes": {
     "mint": {
-      "primary": "FF8A00",
+      "primary": "fcfaf8",
       "secondary": "FF8A00",
       "tertiary": "9B9C9C",
-      "header_background": "fcfcfc",
+      "header_background": "fcfaf8",
       "header_primary": "111111"
     }
   },
