@@ -208,7 +208,7 @@ a {
 .list-controls .combo-box .combo-box-header {
   border: none;
   @include border-radius;
-  background-color: $color-black;
+  background-color: $color-white;
 }
 
 .menu-panel .panel-body-bottom .btn {
@@ -330,7 +330,7 @@ a:hover {
 }
 
 .custom-search-banner-wrap h1, .custom-search-banner-wrap p {
-  color: $color-white;
+  color: $color-black;
 }
 
 .btn[href] {
