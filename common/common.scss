@@ -136,7 +136,7 @@ a {
     overflow: hidden;
     border: none;
     border-top: 8px solid;
-    background: var(--primary);
+    background: var(--secondary);
     @include border-radius;
     box-shadow: 0px 2px 3px 0px rgba(2,47,57,.14);
     .category-box-inner {
@@ -234,9 +234,9 @@ a {
   &.active {
     @include border-radius;
     transition: all 0.3s linear;
-    background: $color-mint;
+    background: $color-orange;
     color: var(--secondary);
-    border: 1px solid $color-mint;
+    border: 1px solid $color-orange;
   }
 }
 
