@@ -8,7 +8,7 @@
       "secondary": "fcfaf8",
       "tertiary": "ff8a00",
       "header_background": "fcfaf8",
-      "header_primary": "252727"
+      "header_primary": "000000"
     }
   },
   "components": ["https://github.com/discourse/discourse-showcased-categories.git","https://github.com/discourse/discourse-search-banner.git"]
