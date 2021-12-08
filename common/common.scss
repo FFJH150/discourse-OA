@@ -138,7 +138,7 @@ a {
     border-top: 8px solid;
     background: var(--secondary);
     @include border-radius;
-    box-shadow: 0px 2px 3px 0px rgba(2,47,57,.14);
+    box-shadow: 0px 2px 3px 0px rgba(2,47,57,.6);
     .category-box-inner {
       border: none;
       padding: 0;
