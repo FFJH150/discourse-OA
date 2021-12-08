@@ -60,7 +60,7 @@ input[type="color"]:focus,
     background: $color-white;
     padding: 2em 2em 1em;
     border-top: 8px solid $tertiary;
-    box-shadow: 0 8px 60px 0 rgba(252,143,0,.7), 0 12px 90px 0 rgba(252,143,0,.7);
+    box-shadow: 0 8px 60px 0 rgba(252,143,0,.7), 0 12px 90px 0 rgba(252,143,0,.1);
     .header-wrapper {
       color: var(--primary);
       background-color: transparent;
@@ -147,7 +147,7 @@ a {
       }
     }
     &:hover {
-      box-shadow: 0px 40px 30px 0px rgba(255,140,0,.4);
+      box-shadow: 0px 40px 30px 0px rgba(56,33,2,.10);
       transform: translateY(-2px);
     }
   }
